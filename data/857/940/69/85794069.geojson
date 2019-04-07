@@ -1,0 +1,108 @@
+{
+  "id": 85794069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5440705.758394,
+    "geom:bbox":"-68.932043,12.106517,-68.932043,12.106517",
+    "geom:latitude":12.106517,
+    "geom:longitude":-68.932043,
+    "gn:latitude":12.10972,
+    "gn:longitude":-68.92222,
+    "iso:country":"CW",
+    "lbl:latitude":12.106517,
+    "lbl:longitude":-68.932043,
+    "mps:latitude":12.10281,
+    "mps:longitude":-68.930936,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:nld_x_preferred":[
+        "St. Jago"
+    ],
+    "name:nld_x_variant":[
+        "Sint Jago",
+        "St Jago"
+    ],
+    "name:unk_x_variant":[
+        "St. Jago"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Sint Jago",
+    "qs:local_max":4398,
+    "qs:local_sum":11515,
+    "qs:localhoods":9,
+    "qs:name":"St. Jago",
+    "qs:name_adm0":"Cura\u00e7ao",
+    "qs:name_local":"Willemstad",
+    "qs:photo_max":837,
+    "qs:photo_sum":4398,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":43,
+    "qs:woe_adm0":56558057,
+    "qs:woe_adm1":0,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":152045,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740333,
+        "gp:id":152010,
+        "qs:id":489297,
+        "qs_pg:id":489297
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"05eda13fef8f5c9c4b12b87eed097e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":-1,
+            "neighbourhood_id":85794069,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":85794069,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861457,
+    "wof:name":"St. Jago",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.932043,
+    12.106517,
+    -68.932043,
+    12.106517
+],
+  "geometry": {"coordinates":[-68.93204299999999,12.106517],"type":"Point"}
+}

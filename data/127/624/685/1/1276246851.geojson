@@ -1,0 +1,65 @@
+{
+  "id": 1276246851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.9,12.11667,-68.9,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-68.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kolontjie",
+    "gn:country_code":"CW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513574,
+    "gn:latitude":12.11667,
+    "gn:longitude":-68.9,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kolontjie",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513574
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"f7b636cb6d49529046efc9727f8e1d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1276246851,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1276246851,
+    "wof:lastmodified":1536894266,
+    "wof:name":"Kolontjie",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.9,
+    12.11667,
+    -68.9,
+    12.11667
+],
+  "geometry": {"coordinates":[-68.90000000000001,12.11667],"type":"Point"}
+}

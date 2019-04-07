@@ -1,0 +1,71 @@
+{
+  "id": 1327446193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.86667,12.1,-68.86667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-68.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Montan'i Rei",
+    "gn:country_code":"CW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513466,
+    "gn:latitude":12.1,
+    "gn:longitude":-68.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Montan\u2019i Rei",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montange",
+        "Montanja di Reij",
+        "Montanje",
+        "Montan\u2019i Rei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513466
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"064a48ead8ced5133e7acfcb1b293599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1327446193,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1327446193,
+    "wof:lastmodified":1537619238,
+    "wof:name":"Montan'i Rei",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.86667,
+    12.1,
+    -68.86667,
+    12.1
+],
+  "geometry": {"coordinates":[-68.86667,12.1],"type":"Point"}
+}

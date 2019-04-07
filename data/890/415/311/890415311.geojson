@@ -1,0 +1,66 @@
+{
+  "id": 890415311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05,12.21667,-69.05,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":-69.05,
+    "gn:country":"CW",
+    "gn:fcode":"PPL",
+    "gn:pop":465,
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Willebrordus"
+    ],
+    "qs:name":"Dorp Sint Willebrordus",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513762,
+        "qs:id":95842
+    },
+    "wof:country":"CW",
+    "wof:created":1469051083,
+    "wof:geomhash":"65d4951a411e9134c487e1a1616167db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":890415311,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":890415311,
+    "wof:lastmodified":1505343425,
+    "wof:name":"Dorp Sint Willebrordus",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:population":465,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05,
+    12.21667,
+    -69.05,
+    12.21667
+],
+  "geometry": {"coordinates":[-69.05,12.21667],"type":"Point"}
+}

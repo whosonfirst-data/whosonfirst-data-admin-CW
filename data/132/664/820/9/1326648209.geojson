@@ -1,0 +1,69 @@
+{
+  "id": 1326648209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.91667,12.1,-68.91667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-68.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Parera",
+    "gn:country_code":"CW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513405,
+    "gn:latitude":12.1,
+    "gn:longitude":-68.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Parera",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pareira",
+        "Parera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513405
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"25b3cd84ad8d71ea4fea2198bee6eadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1326648209,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1326648209,
+    "wof:lastmodified":1537619238,
+    "wof:name":"Parera",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.91667,
+    12.1,
+    -68.91667,
+    12.1
+],
+  "geometry": {"coordinates":[-68.91667,12.1],"type":"Point"}
+}

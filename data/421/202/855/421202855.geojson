@@ -1,0 +1,83 @@
+{
+  "id": 421202855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.81667,12.05,-68.81667,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-68.81667,
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Nieuwpoort"
+    ],
+    "name:unk_x_variant":[
+        "Nieuwpoort"
+    ],
+    "qs:gn_country":"CW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3513445,
+    "qs:gn_pop":1937,
+    "qs:name":"New Port",
+    "qs:name_adm0":"Cura\u00e7ao",
+    "qs:name_adm1":null,
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":151,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":228596,
+    "qs:woe_adm0":56558057,
+    "qs:woe_id":151952,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513445,
+        "gp:id":151952,
+        "qs:id":228596
+    },
+    "wof:country":"CW",
+    "wof:created":1459010132,
+    "wof:geomhash":"bea5280192495c41618677e27e4daf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":421202855,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":421202855,
+    "wof:lastmodified":1505340778,
+    "wof:name":"New Port",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:population":1937,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.81667,
+    12.05,
+    -68.81667,
+    12.05
+],
+  "geometry": {"coordinates":[-68.81667,12.05],"type":"Point"}
+}

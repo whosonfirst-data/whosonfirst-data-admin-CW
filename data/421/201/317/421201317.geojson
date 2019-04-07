@@ -1,0 +1,74 @@
+{
+  "id": 421201317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.91667,12.1,-68.91667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-68.91667,
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CW",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3513388,
+    "qs:gn_pop":0,
+    "qs:name":"Pietermaai",
+    "qs:name_adm0":"Cura\u00e7ao",
+    "qs:name_adm1":null,
+    "qs:photos":221,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":221,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211103,
+    "qs:woe_adm0":56558057,
+    "qs:woe_id":151971,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513388,
+        "gp:id":151971,
+        "qs:id":211103
+    },
+    "wof:country":"CW",
+    "wof:created":1459010068,
+    "wof:geomhash":"25b3cd84ad8d71ea4fea2198bee6eadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":-1,
+            "neighbourhood_id":421201317,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":421201317,
+    "wof:lastmodified":1531858792,
+    "wof:name":"Pietermaai",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.91667,
+    12.1,
+    -68.91667,
+    12.1
+],
+  "geometry": {"coordinates":[-68.91667,12.1],"type":"Point"}
+}

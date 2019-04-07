@@ -1,0 +1,65 @@
+{
+  "id": 1310423793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.88333,12.11667,-68.88333,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-68.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"CW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513264,
+    "gn:latitude":12.11667,
+    "gn:longitude":-68.88333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513264
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"79a7d91bde00c6d1642c840de4f5b98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1310423793,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1310423793,
+    "wof:lastmodified":1537033416,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.88333,
+    12.11667,
+    -68.88333,
+    12.11667
+],
+  "geometry": {"coordinates":[-68.88333,12.11667],"type":"Point"}
+}

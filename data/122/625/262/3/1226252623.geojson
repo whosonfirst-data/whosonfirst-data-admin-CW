@@ -1,0 +1,65 @@
+{
+  "id": 1226252623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,12.11667,-68.96667,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-68.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kas Chikitu",
+    "gn:country_code":"CW",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513608,
+    "gn:latitude":12.11667,
+    "gn:longitude":-68.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kas Chikitu",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cas Chikitoe",
+        "Kas Chikitu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513608
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"eb2bb346547d857d7777da2f520d3c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226252623,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226252623,
+    "wof:lastmodified":1537619239,
+    "wof:name":"Kas Chikitu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    12.11667,
+    -68.96667,
+    12.11667
+],
+  "geometry": {"coordinates":[-68.96666999999999,12.11667],"type":"Point"}
+}

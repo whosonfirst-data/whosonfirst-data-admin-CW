@@ -1,0 +1,65 @@
+{
+  "id": 1293701487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.91667,12.13333,-68.91667,12.13333",
+    "geom:latitude":12.13333,
+    "geom:longitude":-68.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Groot Kwartier",
+    "gn:country_code":"CW",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513692,
+    "gn:latitude":12.13333,
+    "gn:longitude":-68.91667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Groot Kwartier",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513692
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"f7de1d8bc02a3718eb112c896ffcca85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1293701487,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1293701487,
+    "wof:lastmodified":1536975266,
+    "wof:name":"Groot Kwartier",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.91667,
+    12.13333,
+    -68.91667,
+    12.13333
+],
+  "geometry": {"coordinates":[-68.91667,12.13333],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125868479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,12.26667,-69.1,12.26667",
+    "geom:latitude":12.26667,
+    "geom:longitude":-69.1,
+    "gn:gn_country":"CW",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1987,
+    "gn:population":2233,
+    "iso:country":"CW",
+    "lbl:latitude":12.26667,
+    "lbl:longitude":-69.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Soto"
+    ],
+    "name:eng_x_preferred":[
+        "Soto"
+    ],
+    "name:ger_x_preferred":[
+        "Soto"
+    ],
+    "name:pol_x_preferred":[
+        "Soto"
+    ],
+    "name:spa_x_preferred":[
+        "Soto"
+    ],
+    "name:swe_x_preferred":[
+        "Dorp Soto"
+    ],
+    "name:unk_x_variant":[
+        "Soto"
+    ],
+    "qs_pg:aaroncc":"CW",
+    "qs_pg:gn_country":"CW",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3513761,
+    "qs_pg:gn_pop":1987,
+    "qs_pg:name":"Dorp Soto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":95822,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513761,
+        "qs_pg:id":95822,
+        "wd:id":"Q2859536"
+    },
+    "wof:country":"CW",
+    "wof:created":1497294165,
+    "wof:geomhash":"a5e0af2a0ddba80da48aa40762067418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1125868479,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1125868479,
+    "wof:lastmodified":1513944661,
+    "wof:name":"Dorp Soto",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:population":2233,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    12.26667,
+    -69.1,
+    12.26667
+],
+  "geometry": {"coordinates":[-69.09999999999999,12.26667],"type":"Point"}
+}

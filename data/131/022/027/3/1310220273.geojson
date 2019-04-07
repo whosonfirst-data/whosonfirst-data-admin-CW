@@ -1,0 +1,64 @@
+{
+  "id": 1310220273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.07328,12.20902,-69.07328,12.20902",
+    "geom:latitude":12.20902,
+    "geom:longitude":-69.07328,
+    "gn:asciiname":"Coral Estate Rif St. Marie",
+    "gn:country_code":"CW",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7302257,
+    "gn:latitude":12.20902,
+    "gn:longitude":-69.07328,
+    "gn:modification_date":"2010-12-18",
+    "gn:name":"Coral Estate Rif St. Marie",
+    "gn:population":0,
+    "gn:timezone":"America/Curacao",
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7302257
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"1278fcbc99e192c1d4f4af61571124a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":1310220273,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":1310220273,
+    "wof:lastmodified":1536829890,
+    "wof:name":"Coral Estate Rif St. Marie",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.07328000000001,
+    12.20902,
+    -69.07328000000001,
+    12.20902
+],
+  "geometry": {"coordinates":[-69.07328000000001,12.20902],"type":"Point"}
+}

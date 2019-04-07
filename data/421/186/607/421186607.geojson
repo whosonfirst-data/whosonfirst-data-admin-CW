@@ -1,0 +1,71 @@
+{
+  "id": 421186607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.051818,12.213833,-69.051818,12.213833",
+    "geom:latitude":12.213833,
+    "geom:longitude":-69.051818,
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Krakeel",
+    "qs:name_adm0":"Cura\u00e7ao",
+    "qs:name_adm1":null,
+    "qs:photos":163,
+    "qs:photos_1k":33,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":163,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074586,
+    "qs:woe_adm0":56558057,
+    "qs:woe_id":151925,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":151925,
+        "qs:id":1074586
+    },
+    "wof:country":"CW",
+    "wof:created":1459009486,
+    "wof:geomhash":"79157ac048adf77144283f7485fa455f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":421186607,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":421186607,
+    "wof:lastmodified":1466635863,
+    "wof:name":"Krakeel",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.051818,
+    12.213833,
+    -69.051818,
+    12.213833
+],
+  "geometry": {"coordinates":[-69.051818,12.213833],"type":"Point"}
+}

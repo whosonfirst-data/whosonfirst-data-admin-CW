@@ -1,0 +1,104 @@
+{
+  "id": 85794065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":624276.928353,
+    "geom:bbox":"-68.916122,12.101485,-68.916122,12.101485",
+    "geom:latitude":12.101485,
+    "geom:longitude":-68.916122,
+    "gn:latitude":12.10588,
+    "gn:longitude":-68.92925,
+    "iso:country":"CW",
+    "lbl:latitude":12.101485,
+    "lbl:longitude":-68.916122,
+    "mps:latitude":12.095724,
+    "mps:longitude":-68.920045,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:nld_x_preferred":[
+        "Punda"
+    ],
+    "name:unk_x_variant":[
+        "Punda"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Punda",
+    "qs:local_max":4398,
+    "qs:local_sum":11515,
+    "qs:localhoods":9,
+    "qs:name":"Punda",
+    "qs:name_adm0":"Cura\u00e7ao",
+    "qs:name_local":"Willemstad",
+    "qs:photo_max":37,
+    "qs:photo_sum":54,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":56558057,
+    "qs:woe_adm1":0,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":152045,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513353,
+        "gp:id":151977,
+        "qs:id":1082313,
+        "qs_pg:id":1082313
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"bd4c68e0e0ce4ef25eba85c62b6a75e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":-1,
+            "neighbourhood_id":85794065,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":85794065,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861456,
+    "wof:name":"Punda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.916122,
+    12.101485,
+    -68.916122,
+    12.101485
+],
+  "geometry": {"coordinates":[-68.916122,12.101485],"type":"Point"}
+}

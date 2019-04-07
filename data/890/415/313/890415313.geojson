@@ -1,0 +1,74 @@
+{
+  "id": 890415313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,12.16688,-68.96667,12.16688",
+    "geom:latitude":12.16688,
+    "geom:longitude":-68.96667,
+    "gn:country":"CW",
+    "gn:fcode":"ISL",
+    "gn:pop":142000,
+    "iso:country":"CW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:eng_x_preferred":[
+        "Cura\u00e7ao Island"
+    ],
+    "name:eng_x_variant":[
+        "Cura\u00e7ao"
+    ],
+    "qs:name":"Cura\u00e7ao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":7762,
+    "wof:belongsto":[
+        102191575,
+        85632441,
+        85670465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513790,
+        "gp:id":151917,
+        "qs:id":95843,
+        "wd:id":"Q25279",
+        "wk:page":"Cura\u00e7ao"
+    },
+    "wof:country":"CW",
+    "wof:created":1469051083,
+    "wof:geomhash":"9172f9eabb3477710814dd2a85e40998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":890415313,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":890415313,
+    "wof:lastmodified":1527727239,
+    "wof:name":"Cura\u00e7ao",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:population":142000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    12.16688,
+    -68.96667,
+    12.16688
+],
+  "geometry": {"coordinates":[-68.96666999999999,12.16688],"type":"Point"}
+}
