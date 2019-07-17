@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0644\u0645\u0633\u062a\u0627\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u064a\u0644\u0645\u0633\u062a\u0627\u062f"
+    ],
     "name:ast_x_preferred":[
         "Willemstad"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u0435\u043c\u0441\u0442\u0430\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u0456\u043b\u0435\u043c\u0441\u0442\u0430\u0434"
     ],
     "name:ben_x_preferred":[
         "\u0989\u0987\u09b2\u09c7\u09ae\u09b8\u09cd\u099f\u09be\u09a1"
@@ -44,6 +50,9 @@
         "\u0412\u0438\u043b\u0435\u043c\u0441\u0442\u0430\u0434"
     ],
     "name:cat_x_preferred":[
+        "Willemstad"
+    ],
+    "name:ceb_x_preferred":[
         "Willemstad"
     ],
     "name:ces_x_preferred":[
@@ -106,6 +115,9 @@
     "name:hun_x_preferred":[
         "Willemstad"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u056c\u0565\u0574\u057d\u057f\u0561\u0564"
+    ],
     "name:ido_x_preferred":[
         "Willemstad"
     ],
@@ -146,6 +158,12 @@
         "\u0935\u093f\u0932\u0947\u092e\u0936\u094d\u091f\u093e\u0921"
     ],
     "name:msa_x_preferred":[
+        "Willemstad"
+    ],
+    "name:myv_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0435\u043c\u0441\u0442\u0430\u0434"
+    ],
+    "name:nan_x_preferred":[
         "Willemstad"
     ],
     "name:nld_x_preferred":[
@@ -293,7 +311,7 @@
         }
     ],
     "wof:id":421187435,
-    "wof:lastmodified":1561767298,
+    "wof:lastmodified":1563336167,
     "wof:name":"Willemstad",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",
