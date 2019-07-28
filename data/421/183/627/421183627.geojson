@@ -5,12 +5,71 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.95,12.13333,-68.95,12.13333",
     "geom:latitude":12.13333,
     "geom:longitude":-68.95,
     "iso:country":"CW",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u0627 \u0641\u064a\u0633\u062a\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:ceb_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:ces_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:deu_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:fin_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:fra_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:ita_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30a8\u30ca\u30d3\u30b9\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc5d0\ub098 \ube44\uc2a4\ud0c0"
+    ],
+    "name:nds_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:pol_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:por_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0435\u043d\u0430 \u0412\u0438\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0435\u043d\u0430-\u0412\u0456\u0441\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u0646\u0627 \u0648\u0633\u0679\u0627"
+    ],
+    "name:vol_x_preferred":[
+        "Buena Vista"
+    ],
     "qs:gn_country":"CW",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3513856,
@@ -43,7 +102,7 @@
     },
     "wof:country":"CW",
     "wof:created":1459009376,
-    "wof:geomhash":"15e7e3e35fb81b62d5231cf2022995b4",
+    "wof:geomhash":"bb5c54c2f8375a5122ab6459a94bb356",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +112,7 @@
         }
     ],
     "wof:id":421183627,
-    "wof:lastmodified":1466635857,
+    "wof:lastmodified":1564329707,
     "wof:name":"Buena Vista",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",
