@@ -25,9 +25,132 @@
     "iso:country":"CW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0633\u064a\u0646\u062f\u0627\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:ceb_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:ces_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:dan_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:deu_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:eus_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0632\u0646\u200c\u062f\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Rosendael"
+    ],
+    "name:glg_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:ind_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:ita_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:jav_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30bc\u30f3\u30c0\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc13c\ub2ec"
+    ],
+    "name:lim_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:lit_x_preferred":[
+        "Rozendalis"
+    ],
+    "name:min_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d\u0434\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:nld_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:nno_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:pol_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:por_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:ron_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d\u0434\u0430\u043b"
+    ],
+    "name:sco_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:spa_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:sqi_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d\u0434\u0430\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:swe_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d\u0434\u0430\u043b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e23\u0e40\u0e0b\u0e19\u0e14\u0e32\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Roosendaal"
+    ],
     "name:und_x_variant":[
         "Rozendaal",
         "Roosendaal"
+    ],
+    "name:vie_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:vol_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:war_x_preferred":[
+        "Roosendaal"
+    ],
+    "name:zea_x_preferred":[
+        "Rozendael"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u68ee\u8fbe\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +173,7 @@
         }
     ],
     "wof:id":1226452363,
-    "wof:lastmodified":1537619238,
+    "wof:lastmodified":1564329709,
     "wof:name":"Roosendaal",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",
