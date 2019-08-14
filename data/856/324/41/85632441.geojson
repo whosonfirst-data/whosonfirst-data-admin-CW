@@ -12,6 +12,9 @@
     "gn:population":141766,
     "gp:id":0,
     "iso:country":"CW",
+    "label:eng_x_preferred_shortcode":[
+        "CW"
+    ],
     "lbl:latitude":12.150201,
     "lbl:longitude":-68.933415,
     "mps:latitude":12.150201,
@@ -493,7 +496,7 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1563336158,
+    "wof:lastmodified":1565670987,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
