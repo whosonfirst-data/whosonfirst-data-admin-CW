@@ -10,8 +10,11 @@
     "geom:latitude":12.1,
     "geom:longitude":-68.9,
     "iso:country":"CW",
+    "lbl:bbox":"-68.905,12.095,-68.895,12.105",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:nld_x_preferred":[
         "Sali\u00f1a"
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3513301,
         "gp:id":151991,
-        "qs:id":34001
+        "qs_pg:id":34001
     },
     "wof:country":"CW",
     "wof:created":1459010127,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421202717,
-    "wof:lastmodified":1531858804,
+    "wof:lastmodified":1566709954,
     "wof:name":"Sali\u00f1a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

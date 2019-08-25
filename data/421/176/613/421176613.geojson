@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.89801,12.1275715,-68.89801,12.1275715",
     "geom:latitude":12.127572,
     "geom:longitude":-68.89801,
     "iso:country":"CW",
+    "lbl:bbox":"-68.91801,12.1075715,-68.87801,12.1475715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":151986,
-        "qs:id":1052255
+        "qs_pg:id":1052255
     },
     "wof:country":"CW",
     "wof:created":1459009114,
-    "wof:geomhash":"6fa3cc93bfc24ce9fb544d4087b4d1ba",
+    "wof:geomhash":"b0e80d33ffe39ca245b376c2ff445771",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421176613,
-    "wof:lastmodified":1466635843,
+    "wof:lastmodified":1566709955,
     "wof:name":"Rust en Vrede",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

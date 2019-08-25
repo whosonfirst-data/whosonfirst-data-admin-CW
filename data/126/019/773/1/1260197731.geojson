@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Curacao",
     "iso:country":"CW",
+    "lbl:bbox":"-68.85333,12.06333,-68.81333,12.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fry_x_preferred":[
         "Moarnsstjer"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260197731,
-    "wof:lastmodified":1564329702,
+    "wof:lastmodified":1566709953,
     "wof:name":"Morgenster",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

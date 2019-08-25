@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5440705.758394,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.932043,12.106517,-68.932043,12.106517",
     "geom:latitude":12.106517,
     "geom:longitude":-68.932043,
     "gn:latitude":12.10972,
     "gn:longitude":-68.92222,
     "iso:country":"CW",
+    "lbl:bbox":"-68.937043,12.101517,-68.927043,12.111517",
     "lbl:latitude":12.106517,
     "lbl:longitude":-68.932043,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.10281,
     "mps:longitude":-68.930936,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     "name:nld_x_variant":[
         "Sint Jago",
         "St Jago"
-    ],
-    "name:unk_x_variant":[
-        "St. Jago"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -60,8 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85632441,
@@ -71,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3740333,
         "gp:id":152010,
-        "qs:id":489297,
         "qs_pg:id":489297
     },
     "wof:country":"CW",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861457,
+    "wof:lastmodified":1566709950,
     "wof:name":"St. Jago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

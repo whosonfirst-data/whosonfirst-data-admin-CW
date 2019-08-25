@@ -12,8 +12,10 @@
     "gn:latitude":12.12648,
     "gn:longitude":-68.96065,
     "iso:country":"CW",
+    "lbl:bbox":"-68.965002,12.116633,-68.955002,12.126633",
     "lbl:latitude":12.121633,
     "lbl:longitude":-68.960002,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.126099,
     "mps:longitude":-68.961512,
     "mz:hierarchy_label":0,
@@ -34,9 +36,8 @@
     "name:nld_x_preferred":[
         "Wishi"
     ],
-    "name:unk_x_variant":[
-        "Juicio",
-        "Wishi"
+    "name:und_x_variant":[
+        "Juicio"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -63,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":270,
     "wof:belongsto":[
         102191575,
@@ -74,7 +75,6 @@
     "wof:concordances":{
         "gn:id":3513082,
         "gp:id":152049,
-        "qs:id":1082639,
         "qs_pg:id":1082639,
         "wd:id":"Q19903803"
     },
@@ -93,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563336155,
+    "wof:lastmodified":1566709950,
     "wof:name":"Wishi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

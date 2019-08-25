@@ -11,11 +11,14 @@
     "geom:longitude":-68.96667,
     "gn:country":"CW",
     "gn:fcode":"ISL",
-    "gn:pop":142000,
+    "gn:population":142000,
     "iso:country":"CW",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Cura\u00e7ao"
     ],
@@ -367,7 +370,7 @@
     "wof:concordances":{
         "gn:id":3513790,
         "gp:id":151917,
-        "qs:id":95843,
+        "qs_pg:id":95843,
         "wd:id":"Q25279",
         "wk:page":"Cura\u00e7ao"
     },
@@ -383,7 +386,7 @@
         }
     ],
     "wof:id":890415313,
-    "wof:lastmodified":1563336170,
+    "wof:lastmodified":1566709955,
     "wof:name":"Cura\u00e7ao",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

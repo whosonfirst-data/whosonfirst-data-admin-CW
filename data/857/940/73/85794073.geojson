@@ -12,8 +12,10 @@
     "gn:latitude":12.10056,
     "gn:longitude":-68.91056,
     "iso:country":"CW",
+    "lbl:bbox":"-68.913257,12.091253,-68.903257,12.101253",
     "lbl:latitude":12.096253,
     "lbl:longitude":-68.908257,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.089883,
     "mps:longitude":-68.910309,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Steenrijk"
     ],
     "name:nld_x_preferred":[
-        "Steenrijk"
-    ],
-    "name:unk_x_variant":[
         "Steenrijk"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,8 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191575,
         85632441,
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":3740340,
         "gp:id":152016,
-        "qs:id":228594,
         "qs_pg:id":228594,
         "wd:id":"Q22666296"
     },
@@ -89,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563336155,
+    "wof:lastmodified":1566709950,
     "wof:name":"Steenrijk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

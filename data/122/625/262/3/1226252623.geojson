@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Curacao",
     "iso:country":"CW",
+    "lbl:bbox":"-68.98667,12.09667,-68.94667,12.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cas Chikitoe",
         "Kas Chikitu"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226252623,
-    "wof:lastmodified":1537619239,
+    "wof:lastmodified":1566709956,
     "wof:name":"Kas Chikitu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
