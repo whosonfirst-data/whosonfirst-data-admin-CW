@@ -11,10 +11,14 @@
     "geom:longitude":-69.15405,
     "gn:country":"CW",
     "gn:fcode":"PPL",
-    "gn:pop":783,
+    "gn:population":783,
     "iso:country":"CW",
+    "lbl:bbox":"-69.17405,12.35047,-69.13405,12.39047",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Westpunt"
     ],
@@ -28,9 +32,6 @@
         "Westpunt"
     ],
     "name:swe_x_preferred":[
-        "Westpunt"
-    ],
-    "name:unk_x_variant":[
         "Westpunt"
     ],
     "qs:name":"Sabana Westpunt",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":3513312,
         "gp:id":152044,
-        "qs:id":148597,
+        "qs_pg:id":148597,
         "wd:id":"Q3461992"
     },
     "wof:country":"CW",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":890434821,
-    "wof:lastmodified":1563336171,
+    "wof:lastmodified":1566709955,
     "wof:name":"Sabana Westpunt",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

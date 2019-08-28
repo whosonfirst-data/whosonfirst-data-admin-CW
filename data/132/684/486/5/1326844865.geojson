@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Curacao",
     "iso:country":"CW",
+    "lbl:bbox":"-69.17,12.33,-69.13,12.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koera Joeri",
         "Kura Juri"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326844865,
-    "wof:lastmodified":1537619238,
+    "wof:lastmodified":1566709949,
     "wof:name":"Kura Juri",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

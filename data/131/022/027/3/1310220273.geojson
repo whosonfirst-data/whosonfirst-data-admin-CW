@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"America/Curacao",
     "iso:country":"CW",
+    "lbl:bbox":"-69.09328,12.18902,-69.05328,12.22902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1310220273,
-    "wof:lastmodified":1536829890,
+    "wof:lastmodified":1566709953,
     "wof:name":"Coral Estate Rif St. Marie",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

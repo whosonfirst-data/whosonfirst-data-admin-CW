@@ -12,8 +12,10 @@
     "gn:latitude":12.11056,
     "gn:longitude":-68.91944,
     "iso:country":"CW",
+    "lbl:bbox":"-68.934463,12.108572,-68.924463,12.118572",
     "lbl:latitude":12.113572,
     "lbl:longitude":-68.929463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.131558,
     "mps:longitude":-68.926093,
     "mz:hierarchy_label":0,
@@ -142,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Ararat"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"00",
@@ -170,7 +169,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":452,
     "wof:belongsto":[
         102191575,
@@ -181,7 +180,6 @@
     "wof:concordances":{
         "gn:id":3740334,
         "gp:id":151843,
-        "qs:id":281689,
         "qs_pg:id":281689
     },
     "wof:country":"CW",
@@ -199,7 +197,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564329697,
+    "wof:lastmodified":1566709951,
     "wof:name":"Ararat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
