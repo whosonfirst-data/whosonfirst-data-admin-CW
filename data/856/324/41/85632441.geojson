@@ -482,6 +482,10 @@
     ],
     "wof:country":"CW",
     "wof:country_alpha3":"CUW",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"6bc55b90f0c1cea2665fd470a151c5e3",
     "wof:hierarchy":[
         {
@@ -498,7 +502,7 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1566709951,
+    "wof:lastmodified":1582379114,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

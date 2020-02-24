@@ -243,6 +243,10 @@
         "wd:id":"Q202027"
     },
     "wof:country":"CW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d6dc711c93f68a331f47e8e617d03bc",
     "wof:hierarchy":[
         {
@@ -257,7 +261,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566709951,
+    "wof:lastmodified":1582379114,
     "wof:name":"Cornet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

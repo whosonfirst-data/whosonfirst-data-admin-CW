@@ -68,6 +68,10 @@
         "qs_pg:id":1082313
     },
     "wof:country":"CW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd4c68e0e0ce4ef25eba85c62b6a75e3",
     "wof:hierarchy":[
         {
@@ -82,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566709950,
+    "wof:lastmodified":1582379113,
     "wof:name":"Punda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
