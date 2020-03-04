@@ -72,6 +72,10 @@
         "qs_pg:id":489297
     },
     "wof:country":"CW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"05eda13fef8f5c9c4b12b87eed097e59",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566709950,
+    "wof:lastmodified":1582379113,
     "wof:name":"St. Jago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -79,6 +79,10 @@
         "wd:id":"Q19903803"
     },
     "wof:country":"CW",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd6231d4470b9d0e90ca9f21548227a4",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566709950,
+    "wof:lastmodified":1582379114,
     "wof:name":"Wishi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

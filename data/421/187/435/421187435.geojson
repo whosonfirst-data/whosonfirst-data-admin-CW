@@ -304,6 +304,9 @@
     },
     "wof:country":"CW",
     "wof:created":1459009513,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"518b0eda8a981bc48435751560f63f0a",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":421187435,
-    "wof:lastmodified":1566709954,
+    "wof:lastmodified":1582379114,
     "wof:name":"Willemstad",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",

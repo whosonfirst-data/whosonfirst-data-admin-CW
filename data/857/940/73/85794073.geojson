@@ -72,6 +72,10 @@
         "wd:id":"Q22666296"
     },
     "wof:country":"CW",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26996ae38a743fbbcf4377a520fecfe5",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566709950,
+    "wof:lastmodified":1582379113,
     "wof:name":"Steenrijk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
