@@ -469,9 +469,7 @@
         421187435
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            531
-        ],
+        "digitalenvoy:country_code":531,
         "gn:id":7626836,
         "gp:id":56558057,
         "hasc:id":"CW",
@@ -505,7 +503,7 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1583529115,
+    "wof:lastmodified":1583797319,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
