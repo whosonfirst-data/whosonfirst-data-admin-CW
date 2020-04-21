@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037245,
-    "geom:area_square_m":450142242.739988,
+    "geom:area_square_m":450141940.47056,
     "geom:bbox":"-69.161224,11.97875,-68.641281,12.397861",
     "geom:latitude":12.196377,
     "geom:longitude":-68.967874,
@@ -133,6 +133,9 @@
         "Kurasau"
     ],
     "name:gag_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:gcr_x_preferred":[
         "Cura\u00e7ao"
     ],
     "name:glg_x_preferred":[
@@ -369,6 +372,12 @@
     "name:war_x_preferred":[
         "Cura\u00e7ao"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u62c9\u7d22"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d8\u10e3\u10e0\u10d0\u10e1\u10d0\u10dd"
+    ],
     "name:yor_x_preferred":[
         "Cura\u00e7ao"
     ],
@@ -503,7 +512,7 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1583797319,
+    "wof:lastmodified":1587428713,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
