@@ -37,6 +37,9 @@
     "name:arg_x_preferred":[
         "Cura\u00e7ao"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0633\u0627\u0648"
+    ],
     "name:ast_x_preferred":[
         "Cura\u00e7ao"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0989\u09b0\u09be\u09b8\u09be\u0993"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09c1\u09b0\u09be\u0995\u09be\u0993"
     ],
     "name:bos_x_preferred":[
         "Cura\u00e7ao"
@@ -79,7 +85,13 @@
     "name:ces_x_preferred":[
         "Cura\u00e7ao"
     ],
+    "name:chr_x_preferred":[
+        "\u13ab\u13b3\u13a8\u13a3"
+    ],
     "name:chy_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:cos_x_preferred":[
         "Cura\u00e7ao"
     ],
     "name:cym_x_preferred":[
@@ -138,6 +150,9 @@
     "name:gcr_x_preferred":[
         "Cura\u00e7ao"
     ],
+    "name:gle_x_preferred":[
+        "Cura\u00e7ao"
+    ],
     "name:glg_x_preferred":[
         "Cura\u00e7ao"
     ],
@@ -152,6 +167,12 @@
     ],
     "name:hak_x_preferred":[
         "Cura\u00e7ao"
+    ],
+    "name:hat_x_preferred":[
+        "Kiraso"
+    ],
+    "name:hau_x_preferred":[
+        "Curacao"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d0\u05e1\u05d0\u05d5"
@@ -170,6 +191,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0575\u0578\u0582\u0580\u0561\u057d\u0561\u0578"
+    ],
+    "name:ido_x_preferred":[
+        "Kuracao"
     ],
     "name:ilo_x_preferred":[
         "Cura\u00e7ao"
@@ -207,6 +231,15 @@
     "name:kbd_x_preferred":[
         "\u041a\u044e\u0440\u0430\u0441\u0430\u0443\u044d"
     ],
+    "name:kcg_x_preferred":[
+        "Kura\u0331sa\u0331u"
+    ],
+    "name:khm_x_preferred":[
+        "\u1782\u17bc\u179a\u17c9\u17b6\u179f\u17c5"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u04af\u0440\u0430\u0441\u0430\u0443"
+    ],
     "name:kor_x_preferred":[
         "\ud034\ub77c\uc18c"
     ],
@@ -215,6 +248,9 @@
     ],
     "name:lat_x_preferred":[
         "Insula Curacensis"
+    ],
+    "name:lat_x_variant":[
+        "Curacium"
     ],
     "name:lav_x_preferred":[
         "Kirasao"
@@ -227,6 +263,9 @@
     ],
     "name:lit_x_preferred":[
         "Kiurasao"
+    ],
+    "name:lld_x_preferred":[
+        "Cura\u00e7ao"
     ],
     "name:lmo_x_preferred":[
         "Cura\u00e7ao"
@@ -300,6 +339,9 @@
     "name:por_x_preferred":[
         "Cura\u00e7ao"
     ],
+    "name:por_x_variant":[
+        "Cura\u00e7au"
+    ],
     "name:ron_x_preferred":[
         "Cura\u00e7ao"
     ],
@@ -312,10 +354,16 @@
     "name:sco_x_preferred":[
         "Cura\u00e7ao"
     ],
+    "name:shn_x_preferred":[
+        "\u1075\u1030\u1038\u101b\u1083\u1087\u101e\u1062\u101d\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd4\u0dbb\u0dcf\u0d9a\u0dcf\u0d95"
     ],
     "name:slk_x_preferred":[
+        "Cura\u00e7ao"
+    ],
+    "name:slv_x_preferred":[
         "Cura\u00e7ao"
     ],
     "name:spa_x_preferred":[
@@ -324,11 +372,17 @@
     "name:spa_x_variant":[
         "Pa\u00eds de Curazao"
     ],
+    "name:srd_x_preferred":[
+        "Cura\u00e7ao"
+    ],
     "name:srn_x_preferred":[
         "Korsow"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0440\u0430\u0441\u0430\u043e"
+    ],
+    "name:stq_x_preferred":[
+        "Cura\u00e7ao"
     ],
     "name:sun_x_preferred":[
         "Kuraso"
@@ -354,8 +408,14 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e37\u0e2d\u0e23\u0e32\u0e40\u0e0b\u0e32"
     ],
+    "name:ton_x_preferred":[
+        "Kulasao"
+    ],
     "name:tur_x_preferred":[
         "Cura\u00e7ao"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u06c7\u0631\u0627\u0633\u0648 \u0626\u0627\u0631\u0649\u0644\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"
@@ -365,6 +425,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kyurasao"
+    ],
+    "name:vec_x_preferred":[
+        "Cura\u00e7ao"
     ],
     "name:vie_x_preferred":[
         "Cura\u00e7ao"
@@ -383,6 +446,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5eab\u62c9\u7d22\u5cf6"
+    ],
+    "name:yue_x_variant":[
+        "\u53e4\u62c9\u7d22\u5cf6"
     ],
     "name:zea_x_preferred":[
         "Cura\u00e7ao"
@@ -577,7 +643,7 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1617827636,
+    "wof:lastmodified":1690868594,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
