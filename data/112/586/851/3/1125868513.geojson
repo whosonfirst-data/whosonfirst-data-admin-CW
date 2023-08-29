@@ -34,10 +34,16 @@
     "name:eng_x_preferred":[
         "Barber"
     ],
+    "name:fra_x_preferred":[
+        "Barber"
+    ],
     "name:nld_x_preferred":[
         "Barber"
     ],
     "name:nob_x_preferred":[
+        "Barber"
+    ],
+    "name:pap_x_preferred":[
         "Barber"
     ],
     "name:pol_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125868513,
-    "wof:lastmodified":1566709955,
+    "wof:lastmodified":1690868595,
     "wof:name":"Barber",
     "wof:parent_id":85670465,
     "wof:placetype":"locality",
