@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037245,
-    "geom:area_square_m":450141940.47056,
+    "geom:area_square_m":450141940.470672,
     "geom:bbox":"-69.161224,11.97875,-68.641281,12.397861",
     "geom:latitude":12.196377,
     "geom:longitude":-68.967874,
     "gn:population":141766,
     "gp:id":0,
     "iso:country":"CW",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "CW"
     ],
@@ -598,7 +601,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "wd:wordcount":7747,
     "wof:belongsto":[
         102191575
@@ -627,7 +631,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"f33e54f0826d22e9d36adbad3ebb8e7d",
+    "wof:geomhash":"c580e7859a64359de9ea56d640794dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -643,12 +647,12 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1690868594,
+    "wof:lastmodified":1694639561,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":141766,
-    "wof:population_rank":9,
+    "wof:population":157538,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-cw",
     "wof:shortcode":"CW",
     "wof:superseded_by":[],
