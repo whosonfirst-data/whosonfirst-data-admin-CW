@@ -616,12 +616,14 @@
         "gn:id":7626836,
         "gp:id":56558057,
         "hasc:id":"CW",
+        "iso:code":"CW",
         "m49:code":"531",
         "ne:adm0_a3":"CUW",
         "ne:id":1159321099,
         "qs_pg:id":694142,
         "wd:id":"Q25279"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85670465
     ],
@@ -647,7 +649,7 @@
         "pap",
         "nld"
     ],
-    "wof:lastmodified":1694639561,
+    "wof:lastmodified":1695881220,
     "wof:name":"Curacao",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
